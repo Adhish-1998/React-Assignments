@@ -7,22 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-#a{
-  display : flexbox;
-  margin-left : 42%;
-  margin-top: 15%;
-  justify-content: center;
-  align-items: center;
-  border: 5px solid black;
-  padding: 10px;
-  padding-left: 12px;
-  padding-right: 2px;
-  width : 200px;
-  border-radius : 40px;
-  background-color: beige;
-}
-
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
